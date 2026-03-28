@@ -1,0 +1,18 @@
+{
+  "name": "Japan Utility Setup Guide",
+  "short_name": "JP Utility Guide",
+  "description": "Free step-by-step guide to setting up electricity, gas, water, internet, and mobile phone in Japan for foreigners and expats.",
+  "start_url": "/japan-utility-setup/",
+  "scope": "/japan-utility-setup/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#C41E3A",
+  "icons": [
+    {
+      "src": "images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
