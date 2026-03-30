@@ -58,6 +58,9 @@ document.addEventListener('DOMContentLoaded', function () {
         sidebar.classList.remove('open');
         overlay.classList.remove('open');
       }
+      var href = this.getAttribute('href');
+      var utilityType = href ? href.replace('#', '') : 'unknown';
+      if (typeof gtag === 'function') { gtag('event', 'guide_step_viewed', {utility_type: utilityType}); }
     });
   });
 
