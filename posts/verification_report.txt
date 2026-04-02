@@ -1,0 +1,71 @@
+{
+  "verified_at": "2026-04-01 17:33",
+  "total_files": 7,
+  "passed": 4,
+  "total_issues": 3,
+  "total_warnings": 0,
+  "results": [
+    {
+      "file": "devto_draft.txt",
+      "platform": "devto",
+      "char_count": 2988,
+      "issues": [
+        "ツール数不一致: コピー=13, spec参照=1"
+      ],
+      "warnings": [],
+      "pass": false
+    },
+    {
+      "file": "discord_draft.txt",
+      "platform": "discord",
+      "char_count": 752,
+      "issues": [],
+      "warnings": [],
+      "pass": true
+    },
+    {
+      "file": "hn_draft.txt",
+      "platform": "hn",
+      "char_count": 833,
+      "issues": [],
+      "warnings": [],
+      "pass": true
+    },
+    {
+      "file": "ih_draft.txt",
+      "platform": "ih",
+      "char_count": 3064,
+      "issues": [
+        "禁止語検出: 'based'"
+      ],
+      "warnings": [],
+      "pass": false
+    },
+    {
+      "file": "note_draft.txt",
+      "platform": "note",
+      "char_count": 2809,
+      "issues": [],
+      "warnings": [],
+      "pass": true
+    },
+    {
+      "file": "reddit_draft.txt",
+      "platform": "reddit",
+      "char_count": 1768,
+      "issues": [
+        "ツール数不一致: コピー=13, spec参照=1"
+      ],
+      "warnings": [],
+      "pass": false
+    },
+    {
+      "file": "x_draft.txt",
+      "platform": "x",
+      "char_count": 235,
+      "issues": [],
+      "warnings": [],
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# DISCORD Draft
+> Groq | 2026-04-01 17:31
+
+Hey devs, 
+
+Just wanted to share a super useful tool I stumbled upon: Japan Utility Setup (https://humancronadmin.github.io/japan-utility-setup/). If you're a foreigner living in Japan or planning to move, you know how overwhelming setting up basic utilities can be. 
+
+This guide provides a step-by-step walkthrough for setting up electricity, gas, water, and internet, making it so much easier to get settled. I recently came across it while researching for a roundup article on DEV.to (covering 13 similar services), but this one deserved its own shoutout.
+
+Definitely worth checking out if you're struggling to navigate the process. Let me know if you have any questions or if you've used this tool before!

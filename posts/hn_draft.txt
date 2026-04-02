@@ -1,0 +1,13 @@
+# HN Draft
+> Gemini | 2026-04-01 17:31
+
+**Title:** Japan Utility Setup Guide for Foreign Residents
+
+**Body:**
+A step-by-step guide for foreigners setting up utilities in Japan. This resource details the process for initiating service for electricity, gas, water, and internet connections.
+
+It addresses common difficulties foreigners face, such as language barriers and unfamiliar administrative processes, by providing structured instructions on application procedures, required documentation (e.g., resident card, bank account details), and payment methods.
+
+The guide covers common providers and general steps applicable across different regions. This is a dedicated guide, expanding on utility setup details sometimes covered briefly in broader relocation articles.
+
+**URL:** https://humancronadmin.github.io/japan-utility-setup/

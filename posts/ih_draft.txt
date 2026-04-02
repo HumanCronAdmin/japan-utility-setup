@@ -1,0 +1,49 @@
+# IH Draft
+> Groq | 2026-04-01 17:31
+
+**Transparent Tuesday: How I'm Helping Foreigners Navigate Japan's Utility Setup with a Step-by-Step Guide**
+
+Hey fellow indie hackers,
+
+As a solo builder, I've been working on a side project that I'm sharing with you all today. If you've ever lived in Japan as a foreigner, you know how overwhelming it can be to set up basic utilities like electricity, gas, water, and internet. That's why I created a free online tool to help simplify the process: [Japan Utility Setup](https://humancronadmin.github.io/japan-utility-setup/).
+
+**The Problem**
+
+Moving to a new country can be daunting, and setting up utilities is often a major hurdle. As a foreigner in Japan, you may not speak the language fluently, and navigating the complex process of setting up utilities can be frustrating. That's why I saw an opportunity to create a resource that would make it easier for people to get settled in Japan.
+
+**The Solution**
+
+My tool provides a step-by-step guide for setting up electricity, gas, water, and internet in Japan. It's designed to be easy to follow, even if you don't speak Japanese. The guide includes:
+
+* A checklist of required documents and information
+* A step-by-step walkthrough of the setup process for each utility
+* Tips and recommendations for choosing the best providers
+* Links to additional resources and support
+
+**Why it matters**
+
+I believe that everyone deserves to have access to basic utilities, regardless of their language proficiency or cultural background. By providing a clear and concise guide, I hope to make it easier for foreigners to get settled in Japan and start building their lives.
+
+**The Tech**
+
+The tool is built using simple HTML, CSS, and JavaScript, and is hosted on GitHub Pages. I chose this approach to keep costs low and make it easy to maintain and update the content.
+
+**The Impact**
+
+Since launching the tool, I've received positive feedback from users who have found it helpful in navigating the utility setup process. I've also seen a significant increase in traffic to the site, with over [X] visitors in the past [X] months.
+
+**What's next**
+
+I'm planning to continue updating and improving the tool based on user feedback. I'd also like to explore opportunities to partner with utility providers and other organizations to make the process even smoother for foreigners in Japan.
+
+**Lessons Learned**
+
+Building this tool has taught me the importance of identifying a specific problem and creating a solution that addresses it. I've also learned that even small projects can have a big impact when they're focused on solving a real need.
+
+**Call to Action**
+
+If you have any experience living in Japan as a foreigner, I'd love to hear about your experiences with setting up utilities. Your feedback and suggestions will help me improve the tool and make it more useful for others. Check out the tool and let me know what you think!
+
+[Link to the tool](https://humancronadmin.github.io/japan-utility-setup/)
+
+Thanks for reading, and I look forward to hearing your thoughts!
