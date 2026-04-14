@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Japan Utility Setup</title>
+  <link href="https://humancronadmin.github.io/japan-utility-setup/" rel="alternate"/>
+  <link href="https://humancronadmin.github.io/japan-utility-setup/feed.xml" rel="self"/>
+  <id>https://humancronadmin.github.io/japan-utility-setup/</id>
+  <updated>2026-04-11T12:25:31Z</updated>
+  <author><name>HumanCron</name></author>
+  <entry>
+    <title>Setting Up Utilities in Japan: A Guide for New Residents</title>
+    <link href="https://humancronadmin.github.io/japan-utility-setup/articles/japan-utility-setup-guide.html" rel="alternate"/>
+    <id>https://humancronadmin.github.io/japan-utility-setup/articles/japan-utility-setup-guide.html</id>
+    <updated>2026-04-11T12:25:31Z</updated>
+    <summary>Navigating utility setup in Japan for foreigners. Electricity, gas, water, internet, and phone contracts. Practical advice from someone who has done it.</summary>
+  </entry>
+</feed>
